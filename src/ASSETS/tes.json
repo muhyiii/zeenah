@@ -1,0 +1,62 @@
+[
+    {
+        "product": "Jubah Zeenah 1",
+        "harga": "560.000",
+        "stok": 2
+    },
+    {
+        "product": "Jubah Zeenah 2",
+        "harga": "565.000",
+        "stok": 0
+    },
+    {
+        "product": "Jubah Zeenah 3",
+        "harga": "570.000",
+        "stok": 13
+    },
+    {
+        "product": "Jubah Zeenah 4",
+        "harga": "580.000",
+        "stok": 21
+    },
+    {
+        "product": "Jubah Zeenah 5",
+        "harga": "620.000",
+        "stok": 3
+    },
+    {
+        "product": "Jubah Zeenah 6",
+        "harga": "560.000",
+        "stok": 9
+    },
+    {
+        "product": "Jubah Zeenah 7",
+        "harga": "600.000",
+        "stok": 0
+    },
+    {
+        "product": "Jubah Zeenah 8",
+        "harga": "590.000",
+        "stok": 25
+    },
+    {
+        "product": "Jubah Zeenah 9",
+        "harga": "450.000",
+        "stok": 11
+    },
+    {
+        "product": "Jubah Zeenah 10",
+        "harga": "560.000",
+        "stok": 30
+    },
+    {
+        "product": "Jubah Zeenah 11",
+        "harga": "520.000",
+        "stok": 0
+    },
+    {
+        "product": "Jubah Zeenah 12",
+        "harga": "660.000",
+        "stok": 12
+    }
+]
